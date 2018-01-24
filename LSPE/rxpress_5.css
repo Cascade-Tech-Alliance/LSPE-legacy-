@@ -1,0 +1,475 @@
+/* CSS Document */
+/*RESOLUTIONexpress*/
+
+.pagebody
+{
+	background-color: #E1E8F5;
+	margin-top: 5px;
+	margin-left: 2px;
+	margin-right: 0px
+}
+
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; FONT-FAMILY: Verdana, Arial
+}
+
+.subheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: Verdana, Arial
+}
+
+.normal_text_small
+{
+	font-size: 10px;
+	font-family: Verdana, Arial;
+}
+
+.normal_text_medium
+{
+	font-size: 12px;
+	font-family: Verdana, Arial;
+}
+
+.normaltext:link
+{
+	font-weight: normal;
+	text-justify: inter-word;
+	font-size: 10px;
+	font-family: Verdana, Arial;
+	text-align: justify;
+	color: #1D21B0
+}
+
+.normaltext:visited
+{
+	font-weight: normal;
+	text-justify: inter-word;
+	font-size: 10px;
+	font-family: Verdana, Arial;
+	text-align: justify;
+	color: #1D21B0
+}
+
+.message
+{
+	font-size: 12px;
+	color: Red;
+	font-family: Verdana, Arial;
+}
+
+.PagerSpan 
+{
+	font-size: 10px;
+	font-family: Verdana, Arial;
+}
+
+.PagerLink 
+{
+	font-size: 10px;
+	font-family: Verdana, Arial;
+}
+
+a
+{
+	font-weight: normal;
+	text-justify: inter-word;
+	font-size: 12px;
+	font-family: Verdana, Arial;
+	text-align: justify;
+	color: #1D21B0;
+}
+
+.normaltext {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial
+}
+
+.normaltextimportant {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial; COLOR: Red;
+}
+
+.entry
+{
+	font-weight: normal;
+	font-size: 12px;
+	font-family: Verdana, Arial;
+	height: 19px;
+	background-color: #FFFFFF
+}
+
+.entrylabel {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12px; 
+	FONT-FAMILY: Verdana, Arial; 
+	height: 19px
+}
+
+.button
+{
+	font-weight: bold;
+	font-size: 12px;
+	width: 100px;
+	font-family: Verdana, Arial;
+	height: 22px
+}
+
+.label {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12px; 
+	FONT-FAMILY: Verdana, Arial;
+}
+
+.pageheader
+{
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #000000;
+	background-color: #AAB2CB;
+	margin-top: 3px;
+	width: 768px
+}
+
+.body
+{
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #000000; 
+	background-color: #AAB2CB;
+	margin-top: 10px;
+	width: 768px
+}
+
+.div.menu_bar {
+	PADDING-RIGHT: 0px;
+	BORDER-TOP: #999 1px solid;
+	PADDING-LEFT: 0px;
+	FONT-SIZE: 12px;
+	BACKGROUND: #f1f1f1;
+	PADDING-BOTTOM: 2px;
+	PADDING-TOP: 2px;
+	BORDER-BOTTOM: #999 1px solid;
+	BORDER-LEFT: #999 1px solid;
+	BORDER-RIGHT: #999 1px solid
+}
+.div.menu_bar td {
+	FONT-SIZE: 12px;
+	text-align: center;
+}
+.div.menu_bar a {
+	FONT-SIZE: 12px;
+	COLOR: black;
+	TEXT-DECORATION: none
+}
+
+#tblPlan 
+{
+	background-color: black;	
+	font-size: 10px;
+	font-family: Verdana, Arial;	
+}
+
+.plan
+{
+	font-size: 12px;
+	font-family: Verdana, Arial;
+}
+
+.datagrid
+{
+	background-color: #E2D5C2;	
+}
+
+.datagrid td 
+{
+	background-color: white;	
+	font-size: 10px;
+	font-family: Verdana, Arial;	
+}
+
+.users
+{
+	background-color: #000000;	
+}
+
+.users td 
+{
+	background-color: white;	
+	font-size: 10px;
+	font-family: Verdana, Arial;	
+}
+
+.plan_details
+{
+	background-color: #000000;	
+}
+
+.plan_details td 
+{
+	background-color: white;	
+	font-size: 10px;
+	font-family: Verdana, Arial;	
+}
+
+.services
+{
+	background-color: #000000;	
+}
+
+.services td 
+{
+	background-color: white;	
+	font-size: 10px;
+	font-family: Verdana, Arial;	
+}
+
+td.plan
+{
+	/* background-color: #E2D5C2; */
+	background-color: #ffffff;
+}
+
+td.service
+{
+	/* background-color: #E2D5C2; */
+	background-color: #ffffff;
+}
+
+/*input[type=text]:focus {
+    text
+    background-color: yellow;
+}*/
+
+.input_allotments
+{
+	width: 120px;
+	text-align: right;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_name
+{
+	width: 122px;
+	text-align: left;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_service
+{
+	width: 243px;
+	text-align: left;
+	font-family: Verdana, Arial;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+.input_service_type_desc
+{
+	width: 796px;
+	height: 75px;
+	text-align: left;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_service_desc
+{
+	width: 738px;
+	text-align: left;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_account
+{
+	width: 148px;
+	text-align: center;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_unit_cost
+{
+	width: 75px;
+	text-align: right;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_username
+{
+	width: 172px;
+	text-align: left;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_password
+{
+	width: 97px;
+	text-align: left;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_email
+{
+	width: 222px;
+	text-align: left;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_units
+{
+	width: 55px;
+	text-align: right;
+	font-weight: bold;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.select_plan_detail_service
+{
+	width: 200px;
+	text-align: left;
+	font-weight: bold;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.select_plan_detail_u_of_m
+{
+	width: 45px;
+	text-align: left;
+	font-weight: bold;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.input_notes
+{
+	width: 795px;
+	height: 35px;
+	text-align: left;
+	font-weight: bold;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.faq
+{
+	background-color: Black;
+}
+
+.faq td
+{
+	background-color: White;
+	font-size: 10px;
+	font-family: Verdana, Arial;	
+}
+
+td.faq_question
+{
+	background-color: #f1f1f1;	
+}
+
+.input_faq
+{
+	width: 795px;
+	height: 55px;
+	text-align: left;
+	font-weight: bold;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.tabstrip_normal
+{
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.tabstrip_small
+{
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+td.transit
+{
+	background-color: #EAEAEA;
+}
+
+td.resolution
+{
+	/* background-color: #EAEAEA;	 */
+	background-color: #FFFFFF;	
+}
+
+td.contracted
+{
+	background-color: #d6f5d6;	
+}
+
+.group_header
+{
+	background-color: #ffffff;
+	font-size: 10px;
+	font-family: Verdana, Arial;
+	text-align: center;
+}
+
+td.menu 
+{
+	BORDER-RIGHT: #f1f1f1 1px solid;
+	PADDING-RIGHT: 6px;
+	BORDER-TOP: #f1f1f1 1px solid;
+	PADDING-LEFT: 6px;
+	BACKGROUND: #f1f1f1;
+	PADDING-BOTTOM: 0px;
+	BORDER-LEFT: #f1f1f1 1px solid;
+	PADDING-TOP: 0px;
+	BORDER-BOTTOM: #f1f1f1 1px solid
+}
+td.menu_hover 
+{
+	BORDER-RIGHT: #999 1px solid;
+	PADDING-RIGHT: 6px;
+	BORDER-TOP: #999 1px solid;
+	PADDING-LEFT: 6px;
+	BACKGROUND: #F1F1F1;
+	/*BACKGROUND: #ccc;*/
+	PADDING-BOTTOM: 0px;
+	BORDER-LEFT: #999 1px solid;
+	PADDING-TOP: 0px;
+	BORDER-BOTTOM: #999 1px solid
+}
+
+td.menu_selected 
+{
+	BORDER-RIGHT: #999 1px solid;
+	PADDING-RIGHT: 6px;
+	BORDER-TOP: #999 1px solid;
+	PADDING-LEFT: 6px;
+	/*BACKGROUND: #F1F1F1;*/
+	BACKGROUND: #ccc;
+	PADDING-BOTTOM: 0px;
+	BORDER-LEFT: #999 1px solid;
+	PADDING-TOP: 0px;
+	BORDER-BOTTOM: #999 1px solid
+}
+
+.ScrollAuto
+{
+	overflow: scroll;	
+}
+
+.menu_separator 
+{
+	PADDING-RIGHT: 1px;
+	PADDING-LEFT: 1px;
+	PADDING-BOTTOM: 0px;
+	FONT: 12px Verdana;
+	COLOR: #a9a9a9;
+	PADDING-TOP: 0px
+}
